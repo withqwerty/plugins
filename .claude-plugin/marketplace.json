@@ -12,7 +12,7 @@
     },
     {
       "name": "nutmeg",
-      "description": "Football data analytics toolkit. Covers Opta, StatsBomb, Wyscout, SportMonks, and free sources.",
+      "description": "Football data analytics toolkit. Acquire, wrangle, compute, analyse, and learn across Opta, StatsBomb, Wyscout, SportMonks, FPL, and free sources. Includes a searchable MCP docs server, 10 skills, and 2 agents.",
       "source": {
         "source": "github",
         "repo": "withqwerty/nutmeg"
