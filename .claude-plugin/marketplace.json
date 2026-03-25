@@ -1,6 +1,12 @@
 {
   "name": "withqwerty",
-  "description": "Plugins by withqwerty.",
+  "owner": {
+    "name": "withqwerty",
+    "url": "https://github.com/withqwerty"
+  },
+  "metadata": {
+    "description": "Plugins by withqwerty."
+  },
   "plugins": [
     {
       "name": "ship",
