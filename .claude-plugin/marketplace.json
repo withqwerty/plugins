@@ -1,0 +1,22 @@
+{
+  "name": "withqwerty",
+  "description": "Plugins by withqwerty.",
+  "plugins": [
+    {
+      "name": "ship",
+      "description": "Think. Build. Ship. Combats your worst instincts as a founder/engineer — gut checks, scope checks, honest reviews.",
+      "source": {
+        "source": "github",
+        "repo": "withqwerty/ship"
+      }
+    },
+    {
+      "name": "nutmeg",
+      "description": "Football data analytics toolkit. Covers Opta, StatsBomb, Wyscout, SportMonks, and free sources.",
+      "source": {
+        "source": "github",
+        "repo": "withqwerty/nutmeg"
+      }
+    }
+  ]
+}
