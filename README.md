@@ -16,3 +16,4 @@ Then pick what you need from the Discover tab.
 |--------|-------------|
 | [ship](https://github.com/withqwerty/ship) | Think. Build. Ship. Gut checks, scope checks, honest reviews. |
 | [nutmeg](https://github.com/withqwerty/nutmeg) | Football data analytics toolkit. |
+| [sharpen](https://github.com/withqwerty/sharpen) | Pressure-test your tweets before posting. |
