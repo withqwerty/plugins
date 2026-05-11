@@ -18,7 +18,7 @@
     },
     {
       "name": "nutmeg",
-      "description": "Football data analytics toolkit. Acquire, wrangle, compute, analyse, and learn across Opta, StatsBomb, Wyscout, SportMonks, FPL, and free sources. Includes a searchable MCP docs server, 10 skills, and 2 agents.",
+      "description": "Football data analytics toolkit. Acquire, wrangle, compute, analyse, visualise, and learn across Opta, StatsBomb, Wyscout, SportMonks, FPL, and free sources. Includes a searchable MCP docs server, 11 skills, and 3 agents.",
       "source": {
         "source": "github",
         "repo": "withqwerty/nutmeg"
