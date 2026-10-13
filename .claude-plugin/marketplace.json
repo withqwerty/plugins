@@ -18,7 +18,7 @@
     },
     {
       "name": "nutmeg",
-      "description": "Football data analytics toolkit. Acquire, wrangle, compute, analyse, visualise, and learn across Opta, StatsBomb, Wyscout, SportMonks, FPL, and free sources. Grounded in the football-docs MCP server and the Reep Register for cross-provider IDs. 10 skills and 3 agents.",
+      "description": "Football data analytics toolkit. Acquire, wrangle, compute, analyse, visualise, and learn across Opta, StatsBomb, Wyscout, SportMonks, FPL, and free sources. Research projects tie every number to its evidence. Grounded in the football-docs MCP server and the Reep Register for cross-provider IDs. 11 skills and 3 agents.",
       "source": {
         "source": "github",
         "repo": "withqwerty/nutmeg"
